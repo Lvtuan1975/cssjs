@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='goo.gl/Ocswh1' target='_blank'><img src='http://media.bizwebmedia.net/sites/86556/Upload/Gallery/1241280banner_chinh3.jpg' width='500px'/><br/>Giá tốt nhất & nhiều chương trình khuyến mãi</a>. Showroom 28 Thành Công, Tân Phú, TPHCM. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='goo.gl/Ocswh1' target='_blank'><img src='https://3.bp.blogspot.com/-xKQ_Cjxogmg/WQF7J8NqeTI/AAAAAAAAAzQ/tqEwoMz7BHU8v8MtUzuWQognJoeNhXz5wCLcB/s400/banner%2Bdau%2Btrang.jpg' width='500px'/><br/>Giá tốt nhất & nhiều chương trình khuyến mãi</a>. Showroom 28 Thành Công, Tân Phú, TPHCM. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
